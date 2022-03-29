@@ -13,5 +13,5 @@ The purpose of this project was to take the code base of an already deployed app
 - Added `alt` attribute to images within `<article>` elements. Icons were given an `alt` attribute, but were left empty due to not bearing any real signifcance to the content.
 
 ## Deployed Application
-The updated version of the application can be visited at the below link:
+The updated version of the application can be visited at the following link:
 [Horiseon Social Solution Services](https://cmskorcz.github.io/horiseon-social-solution-services/).
