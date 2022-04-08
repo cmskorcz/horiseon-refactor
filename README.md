@@ -15,3 +15,5 @@ The purpose of this project was to take the code base of an already deployed app
 ## Deployed Application
 The updated version of the application can be visited at the following link:
 [Horiseon Social Solution Services](https://cmskorcz.github.io/horiseon-social-solution-services/).
+
+![ScreenShot](./assets/images/screencapture.png)
